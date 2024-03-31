@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pnXQgfU6q+iU5umVChuriHJWXJBfD3Ajpc7oOwDpvX4=",
+  "Source": "HivNewsApi",
+  "BasePath": "_content/HivNewsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
